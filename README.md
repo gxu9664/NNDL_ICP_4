@@ -35,3 +35,6 @@
       d) Calculate the mean_squared error
 
       e) Visualize both train and test data using scatter plot.
+
+
+Video link: https://drive.google.com/drive/u/2/folders/1ifSvqwSl5jvL8zzNriJ4AlNxN5qQg-wb
